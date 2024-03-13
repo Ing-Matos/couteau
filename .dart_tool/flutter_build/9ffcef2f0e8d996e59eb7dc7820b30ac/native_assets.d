@@ -1,0 +1,1 @@
+ C:\\Users\\RafaelLugoTech\\Downloads\\coteau\\coteau\\.dart_tool\\flutter_build\\9ffcef2f0e8d996e59eb7dc7820b30ac\\native_assets.yaml: 
